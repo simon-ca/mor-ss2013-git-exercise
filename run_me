@@ -1,0 +1,6 @@
+#!/usr/bin/python
+
+#from __future__ import division
+from sys import exit
+
+exit(1/3 > 0)
